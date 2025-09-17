@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Socratic Tutor
 
 A command-line AI tutor that uses Google's Gemini model to help users explore topics through the Socratic method of questioning. Instead of providing direct answers, the tutor asks guiding, open-ended questions to encourage deeper understanding and critical thinking.
@@ -84,3 +85,6 @@ socratic-tutor/
 ## Customization
 
 The creator's identity is set directly in the `tutor.py` script within the `run_socratic_tutor` function. You can modify the `creator_keywords` list and the printed response to change this behavior.
+=======
+# socratic-ai-tutor
+>>>>>>> 08b0f3b0841c9ef2f2822fb5a1f58d9f5fa1f4a1
